@@ -1,2 +1,2 @@
-plugins/com.checkmarx.eclipse.plugin_2.0.0.jar filter=lfs diff=lfs merge=lfs -text
-features/com.checkmarx.eclipse.feature_2.0.0.jar filter=lfs diff=lfs merge=lfs -text
+plugins/com.checkmarx.eclipse.plugin_2.1.11.SNAPSHOTv7.jar filter=lfs diff=lfs merge=lfs -text
+features/com.checkmarx.eclipse.feature_2.1.11.SNAPSHOTv7.jar filter=lfs diff=lfs merge=lfs -text
